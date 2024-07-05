@@ -23,4 +23,3 @@ Following mentioned functional requirements were done by 28.06.2024
 - `distance_measurement/`: Directory for code related to distance measurement using ultrasonic sensors.
 - `text_to_speech/`: Directory for text-to-speech conversion code.
 - `vehicle_distance/`: Directory for vehicle distance checking code.
-- 
