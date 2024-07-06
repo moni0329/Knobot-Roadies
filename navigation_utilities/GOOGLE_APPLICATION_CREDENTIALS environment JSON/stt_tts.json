@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "oceanic-hook-424918-t4",
+  "private_key_id": "bff6cfad35f853f89e9fa616723282136a446319",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCiDuP7RuN8H36n\ne7bR4SKYIWbtRP4UI/cLsDLjnlBALvAcPJBcMmqLSYDke91KewrYgHjoOR+zH1k+\nhKZHnY/FKAF9fzM4xdkUPJGCJi1YdqpvDq8LajMpoOSkCfkAt+7nOa3odh29+6mm\ndILR2PTzqdvPLF8E0hUuovgbNA56sVUZOIuL84Ynwe7RSUWPajoNyp7W8JG6ubz+\n2jY+2C1d3ZIE9P1NhwKOfw3hFTmeCSRfGLwKUHTRlmONe1KHP78M+z89BGopZ7qc\nVuqMOvKokfaHmV+chEggOo7O0or91KU4yiWxu/DsPhEgXDlILKrJprl5Fx/UWF0m\n7NvDXRhnAgMBAAECggEAGfi28sNGm9LUUnUSNIqXJ7harXXcHlAxPG9NiIsLo22i\nT3QpUo1F4/KwtG1hZplXgKD+P4FAIk3I2KsbluiabOdfbcRf6h5TDtoyG6CQrde+\nsrOwu+yWLHq7icqLXGEd6XKl+1ZKp/LYGnQbrxPNFevH7WjYBYbBnErD5mAuXd0h\n9+A5Yo01Uof6i0ED0WcgTDu+OesaVhQL1lfv80D7JiF1bk5yiqhtkX+sUA+e3UR2\nksK+H3KrP/sQ5RNsG6h7qsCYPSEPk8U49zphBmANW8Ds6c66gOOAvPdPz8E9JNsf\nn1A3yh3vIxGHulMYbuvivSO9QZ9o68bWeUM3Kh7LSQKBgQDiOsHBNUygNfHjS5gm\nSm7MsAdcbuFJwvMHnezL4hxvLVHI+Ubb8osuXCy4F+yux4yDhSHYvoGYQxmRhkGt\nkUdtHelQJ75UESYNwiFhFxP1wz9yveBtNZEoONJRmYTBdTyjGMgDEJKJF16fV6Qy\n2d84Xq7xtCyeq/Oufe+/mhbUXQKBgQC3YlKWsgo5rPLl4hR+PqVxbY5bTPKirvY3\nKR3Qp7va4AYhCpxXSt+Mr2DwkSxF++rTtugrOBg10prs4oja+Lv2TmorAEfMtXMD\nvBMQ4q/nLuzC8o6/eEeKdKD8toiUa5tJgXvbQRxPgZhTfaB8WhB4tKnGIJhA4Qg5\nwpCJsJNTkwKBgQDX3ecZ/EjUqwTXtT9GcknNiL5NZgQUxS/vebMFTQmC0IS0t5/0\nqjhCkXOeaj3O/NxIdxW34vh4GLbiFHDBNNop9Zu2f2Xug7qC8FW3djT2kksNqr7m\nlnGfJrERaeKyUrL8kd3whrS8mY8RjqhAWYLVIAvg2OKmuT85pjPJ6TeVhQKBgQCS\nri5pItdS8qcGgSLrJ6ilZX/sP0wEG/YMgPK8Jq33kCDW5OnQWK8elFjxkuzavXlD\nBpYFm8ShqGcK+teEblfJ10bMRlknwCrS3ehSJT+Vps7xz5mmRMrUUB1EhawRK1D2\nJn+vDBFc9sekYGOxk0iBg+AX/ZJKsrQlnx6FQ5tTyQKBgQDglucerHYPPvFlUVvD\nALbS7yLPKkdL5CBc/4mMrvTHNDDUMsiBcbmODFFWkU5id3QN44wQ53ny0jVq1Bmd\n8JtJ+wUKAvBOGKJGNOTNAISCtOwNAhEqYLXYNsiv80zCNDR3DXgW2/53+yjjIAtT\nC7SrGGZ07wOSikahHafDkuTSEQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "crosswalk-718@oceanic-hook-424918-t4.iam.gserviceaccount.com",
+  "client_id": "115497961357861315794",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/crosswalk-718%40oceanic-hook-424918-t4.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
