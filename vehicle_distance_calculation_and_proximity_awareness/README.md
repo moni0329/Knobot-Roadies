@@ -1,4 +1,4 @@
-# Navigation Utilities
+# Vehicle distance calculation and proximity awareness
 
 The following mentioned functional requirements are addressed in this directory.
 
