@@ -17,6 +17,5 @@ The following mentioned functional requirements were done by 28.06.2024
 ## Project Structure
 
 - `detect_crosswalks/`: Directory containing the code for crosswalk detection using YOLOv5.
-- `navigation utilities/`: Directory for code with voice recognition, speech-to-text, and text-to-speech conversion.
-- `voice_command_processing/`: Directory for processing user voice commands.
+- `navigation utilities/`: Directory for code with voice recognition and processing user voice commands, speech-to-text, and text-to-speech conversion.
 - `vehicle_distance_calculation_and_proximity_awareness/`: Directory for code related to distance measurement using ultrasonic sensors and vehicle proximity checking code.
