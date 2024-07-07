@@ -9,8 +9,8 @@ import wave
 # Set the GOOGLE_APPLICATION_CREDENTIALS environment variable
 os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = r"C:\Users\hasha\Desktop\project\stt_tts.json"
 
-# Google Maps API Key
-GMAPS_API_KEY = 'AIzaSyAUFYrrwx0GAuBc_MYwHaWO3RFU1qbAv-E'
+# Google Maps API Key should be replaced here
+GMAPS_API_KEY = 'Google Maps API Key'
 
 # Setup logging
 logging.basicConfig(level=logging.DEBUG)
