@@ -17,5 +17,7 @@ The following mentioned functional requirements were done by 28.06.2024
 ## Project Structure
 
 - `detect_crosswalks/`: Directory containing the code for crosswalk detection using YOLOv5.
+- `Detect Pedestrian traffic lights/`: Directory containing the code for pedestrian traffic lights detection using YOLOv5.
 - `navigation utilities/`: Directory for code with voice recognition and processing user voice commands, speech-to-text, and text-to-speech conversion.
 - `vehicle_distance_calculation_and_proximity_awareness/`: Directory for code related to distance measurement using ultrasonic sensors and vehicle proximity checking code.
+- `Full code for Smart cap navigation/`: python file containing the full code for Smart Cap process.
